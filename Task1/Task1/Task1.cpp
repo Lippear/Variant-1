@@ -54,7 +54,7 @@ int CalculateProductBetweenMinMax(int numbers[], int N) {
 
 int main() {
     std::srand(std::time(nullptr));
-    std::cout << "Enter the number of elements in the array Ns: ";
+    std::cout << "Enter the number of elements in the array N: ";
     int N;
     std::cin >> N;
 
